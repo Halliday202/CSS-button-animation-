@@ -1,0 +1,20 @@
+<button class=”button"></button>
+
+
+
+.button{
+    border-radius:20px;
+    border-color: transparent;
+}
+.button:hover{
+    cursor:pointer;
+    background-image: linear-gradient(to bottom right,blue,white);
+    font-size:20px;
+    transition:300ms;
+    border-color: transparent;
+    border-radius:20px;
+}
+.button:onclick{
+    background-image: linear-gradient(to bottom right,blue,yellow);
+  border-color: transparent;
+}
