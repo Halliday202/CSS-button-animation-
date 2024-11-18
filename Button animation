@@ -1,7 +1,3 @@
-<button class=”button"></button>
-
-
-
 .button{
     border-radius:20px;
     border-color: transparent;
